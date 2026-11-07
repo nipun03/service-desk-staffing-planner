@@ -6,4 +6,4 @@ Open index.html locally, or serve this directory as a static site. No installati
 
 Erlang C assumes steady arrivals, independent service times, and callers who stay in queue. Shrinkage covers time away from the queue. The default inputs are illustrative.
 
-[Try the live demo](https://nipun-gupta-portfolio.glovedfable.chatgpt.site/projects/staffing-planner/index.html)
+[Try the live demo](https://nipun03.github.io/portfolio/projects/staffing-planner/index.html)
